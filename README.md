@@ -7,4 +7,3 @@ Trang web piano-dta.github.io cũng cung cấp nhiều tùy chọn cho người 
 Bên cạnh đó, trang web còn có giao diện thân thiện và dễ sử dụng cho người dùng. Bạn có thể tìm kiếm bài hát theo tên hoặc theo nghệ sĩ, và có thể nghe thử trước bài hát trước khi quyết định nghe toàn bộ bản nhạc. Trang web cũng hỗ trợ nhiều ngôn ngữ, giúp người dùng dễ dàng truy cập và sử dụng trang web bằng ngôn ngữ mà họ hiểu.
 
 Tóm lại, piano-dta.github.io là một trang web nghe nhạc piano trực tuyến với nhiều bản nhạc đa dạng, âm thanh chất lượng cao và tính năng tùy chỉnh đa dạng, giúp người dùng có trải nghiệm nghe nhạc tuyệt vời và thoải mái.
-Link mới: https://piano-dta.netlify.app/
